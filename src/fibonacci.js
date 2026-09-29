@@ -22,8 +22,6 @@ const fibs = (n) => {
  * @returns An array containing the first n numbers of the Fibonacci Sequence
  */
 const fibsRec = (n) => {
-  console.log("This was printed recursively");
-
   //Base Case
   if (n === 0) return [];
   if (n === 1) return [0];

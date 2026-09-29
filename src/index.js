@@ -1,3 +1,3 @@
 import { fibsRec } from "./fibonacci.js";
 
-console.log(fibsRec(8));
+console.log(fibsRec(20));
