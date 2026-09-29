@@ -1,4 +1,4 @@
-import { fibs, fibsRec } from "../index.js";
+import { fibs, fibsRec } from "../fibonacci.js";
 
 describe("Iterative Fibonacci Tests", () => {
   test("Fibonacci of 0", () => {
